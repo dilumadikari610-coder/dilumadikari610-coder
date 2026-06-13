@@ -16,5 +16,17 @@
 
 ## 🧑‍💻 About Me
 
-```text
+
 Full-Stack Developer | IT Assistant @ Elisha Clothing | BIT Undergraduate @ University of Moratuwa
+
+## 🛠️ Tech Stack & Tooling
+
+### 🌐 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git&perline=8" width="100%" />
+</p>
+
+### 📊 Data, Analytics & Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma,unity&perline=5" />
+</p>
