@@ -20,12 +20,12 @@
   <tr valign="top">
     <td width="50%">
       <a href="https://github.com/dilumadikari610-coder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&description=🏢+IT+Assistant+%40+Elisha+Clothing+%0D%0A🎓+BIT+Undergraduate+%40+University+of+Moratuwa+%0D%0A🚀+Core+Stack%3A+MERN+%26+.NET+Architecture&show_owner=false" width="100%" alt="Profile Info"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&title=Profile%20Highlights&description=🏢+IT+Assistant+%40+Elisha+Clothing+%0D%0A🎓+BIT+Undergraduate+%40+University+of+Moratuwa+%0D%0A🚀+Core+Stack%3A+MERN+%26+.NET+Architecture&show_owner=false&show_stats=true&icon_color=0e75b6&bg_color=1c1e26" width="100%" alt="Profile Info" style="border: 1px solid #1c1e26; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
       </a>
     </td>
     <td width="50%" style="padding-left: 10px;">
       <a href="https://github.com/dilumadikari610-coder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&title=Developer%20Focus&description=💻+Open+for+Full-Stack+collaborations%0D%0A⚙️+Learning%3A+Advanced+Backend+Architecture%0D%0A⚡+Fun+Fact%3A+Analyze+cricket+stats+%26+gaming+logic!" width="100%" alt="Developer Focus"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&title=Developer%20Focus&description=💻+Open+for+Full-Stack+collaborations%0D%0A⚙️+Learning%3A+Advanced+Backend+Architecture%0D%0A⚡+Fun+Fact%3A+Analyze+cricket+stats+%26+gaming+logic!" width="100%" alt="Developer Focus" style="border: 1px solid #1c1e26; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
       </a>
     </td>
   </tr>
