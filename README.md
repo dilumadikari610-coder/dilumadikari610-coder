@@ -14,59 +14,66 @@
 
 ---
 
+## 🧑‍💻 Professional Overview
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr valign="top">
-    <td width="40%">
-      <h3>📟 Developer Terminal</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0E75B6&width=360&lines=dilum-adikari-coder+--status;Full-Stack+Developer;IT+Assistant+%40+Elisha;BIT+Undergrad+%40+Moratuwa" alt="Typing SVG" />
-      <br/><br/>
-      <p>
-        🏢 <b>Current Role:</b> IT Assistant @ Elisha Clothing<br/>
-        🎓 <b>Education:</b> BIT Undergraduate @ University of Moratuwa<br/>
-        🚀 <b>Core Stack:</b> Full-Stack (MERN & .NET)<br/>
-        💻 <b>Open For:</b> Open-source collaborations<br/>
-        ⚙️ <b>Learning:</b> Advanced Backend Architecture<br/>
-        ⚡ <b>Fun Fact:</b> Love cricket analytics & gaming logic!
-      </p>
-      <hr/>
-      <h3>🛠️ Tech Stack & Tooling</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet&perline=4" width="100%" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,bootstrap,mysql,git,figma&perline=4" width="100%" />
-      </p>
-      <hr/>
-      <h3>🏆 Trophies</h3>
-      <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=dilumadikari610-coder&theme=tokyonight&column=2" width="100%" alt="Trophies" />
-        </a>
-      </p>
+    <td width="50%">
+      <a href="https://github.com/dilumadikari610-coder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&description=🏢+IT+Assistant+%40+Elisha+Clothing+%0D%0A🎓+BIT+Undergraduate+%40+University+of+Moratuwa+%0D%0A🚀+Core+Stack%3A+MERN+%26+.NET+Architecture&show_owner=false" width="100%" alt="Profile Info"/>
+      </a>
     </td>
-    <td width="60%" style="padding-left: 20px;">
-      <h3>📊 GitHub Analytics & Activity</h3>
-      <table width="100%">
-        <tr>
-          <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
-          </td>
-          <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=dilumadikari610-coder&show_icons=true&locale=en&theme=tokyonight" width="100%" alt="GitHub Stats" />
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilumadikari610-coder&theme=tokyonight" width="100%" alt="GitHub Streak" />
-      </p>
-      <br/>
-      <h3>📈 Coding History (Activity Graph)</h3>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
-      </p>
+    <td width="50%" style="padding-left: 10px;">
+      <a href="https://github.com/dilumadikari610-coder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilumadikari610-coder&repo=dilumadikari610-coder&theme=tokyonight&title_color=0e75b6&title=Developer%20Focus&description=💻+Open+for+Full-Stack+collaborations%0D%0A⚙️+Learning%3A+Advanced+Backend+Architecture%0D%0A⚡+Fun+Fact%3A+Analyze+cricket+stats+%26+gaming+logic!" width="100%" alt="Developer Focus"/>
+      </a>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git,figma&perline=8" width="100%" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dilumadikari610-coder&theme=tokyonight&column=4" alt="Trophies" width="100%" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
+    </td>
+    <td width="50%" style="padding-left: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dilumadikari610-coder&show_icons=true&locale=en&theme=tokyonight" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilumadikari610-coder&theme=tokyonight" width="100%" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+### 📈 Coding History (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 <p align="center">
