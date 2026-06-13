@@ -14,50 +14,7 @@
 
 ---
 
+## 🧑‍💻 About Me
 
-## 🛠️ Tech Stack & Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git,figma&perline=8" width="100%" />
-</p>
-
----
-
-## 🏆 Achievements & Badges
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dilumadikari610-coder&theme=tokyonight&column=4" alt="Trophies" width="100%" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr valign="top">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" style="padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dilumadikari610-coder&show_icons=true&locale=en&theme=tokyonight" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilumadikari610-coder&theme=tokyonight" width="100%" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-### 📈 Coding History (Activity Graph)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
-</p>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Built+with+passion+by+Dilum+Adikari;Let's+connect+and+build+something+amazing!" alt="Typing SVG" />
-</p>
+```text
+Full-Stack Developer | IT Assistant @ Elisha Clothing | BIT Undergraduate @ University of Moratuwa
