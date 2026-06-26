@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=051c2c&height=180&section=header&animation=twinkling" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Dilum+Adikari;Full-Stack+Developer;IT+Assistant;BIT+Undergraduate" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&duration=1800&color=00FF66&center=true&vCenter=true&width=650&lines=💻+DILUM+ADIKARI;🔒+CYBER+SECURITY;⚡+FULL-STACK;🔑+DEVELOPMENT" alt="Typing Effect" />
   </a>
 </p>
 
