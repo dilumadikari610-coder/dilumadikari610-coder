@@ -61,7 +61,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 <br/>
 
-### 📊 Coding History (Activity Graph)
+### 📊 Coding History (3D Isometric View)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=github-compact" width="100%" alt="Contribution Graph" />
 </p>
